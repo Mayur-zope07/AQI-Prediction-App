@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Model files (optional if large)
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
